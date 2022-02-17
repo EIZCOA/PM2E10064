@@ -1,0 +1,15 @@
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\bin\Debug\netstandard2.0\PM2E10064.deps.json
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\bin\Debug\netstandard2.0\PM2E10064.dll
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\bin\Debug\netstandard2.0\ref\PM2E10064.dll
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\bin\Debug\netstandard2.0\PM2E10064.pdb
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\obj\Debug\netstandard2.0\PM2E10064.csproj.AssemblyReference.cache
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\obj\Debug\netstandard2.0\PM2E10064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\obj\Debug\netstandard2.0\PM2E10064.AssemblyInfoInputs.cache
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\obj\Debug\netstandard2.0\PM2E10064.AssemblyInfo.cs
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\obj\Debug\netstandard2.0\PM2E10064.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\obj\Debug\netstandard2.0\PM2E10064.dll
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\obj\Debug\netstandard2.0\ref\PM2E10064.dll
+C:\Users\Fausto\source\repos\PM2E10064\PM2E10064\PM2E10064\obj\Debug\netstandard2.0\PM2E10064.pdb
