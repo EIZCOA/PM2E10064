@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PM2E10064.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="2" CornerRadius="0">
+            <Label Text="UTH-PM2 | Fausto Iscoa" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <!--Mi Recuadro para tomar la fotografia--> 
+        <Image x:Name="img" HeightRequest="300" WidthRequest="100" BackgroundColor="Azure"/>
+        <Button x:Name="btn_fotografiar" Text="Fotografiar" Clicked="btn_fotografiar_Clicked" />
+
+        <!--Aqui mis entradas de texto-->
+        <Image Source=""></Image>
+        <Entry x:Name="latitud"     IsEnabled="False" VerticalOptions="Center"></Entry>
+        <Entry x:Name="longitud"    IsEnabled="False" VerticalOptions="Center"></Entry>
+        <Entry x:Name="descri" VerticalOptions="Center" Placeholder="Descripción"></Entry>
+
+        <!--Aqui mis botones-->
+        <Button x:Name="add" Text="Agregar" Clicked="add_Clicked"></Button>
+        <Button x:Name="list" Text="Lista" Clicked="list_Clicked"></Button>
+        <Button x:Name="close" Text="Salir" Clicked="close_Clicked"></Button>
+        
+    </StackLayout>
+
+</ContentPage>
