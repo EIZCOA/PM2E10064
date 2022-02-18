@@ -19,8 +19,12 @@
         <Entry x:Name="descri" VerticalOptions="Center" Placeholder="Descripción"></Entry>
 
         <!--Aqui mis botones-->
-        <Button x:Name="add" Text="Agregar" Clicked="add_Clicked"></Button>
-        <Button x:Name="list" Text="Lista" Clicked="list_Clicked"></Button>
+        <Grid ColumnDefinitions="*,*" HorizontalOptions="Center" VerticalOptions="Center">
+            <Button Grid.Column="0" x:Name="add" Text="Agregar" Clicked="add_Clicked"></Button>
+            <Button Grid.Column="1" x:Name="list" Text="Lista" Clicked="list_Clicked"></Button>
+        </Grid>
+            
+        
         <Button x:Name="close" Text="Salir" Clicked="close_Clicked"></Button>
         
     </StackLayout>
